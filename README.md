@@ -4,7 +4,7 @@ OLA! Eu sou o Henrique Evangelista
 - 🌱 Estudando melhores praticas de desenvolvimento de software
 - 👯 Procuro sempre colaborar com a comunidade de desenvolvimento
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Evangelista&show_icons=true&hide=&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Evangelista&show_icons=true&hide=new&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Evangelista&hide_progress=false&theme=tokyonight&layout=compact)
 
 <div style="display: inline_block"><br>
