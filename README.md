@@ -1,8 +1,8 @@
 OLA! Eu sou o Henrique Evangelista
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando melhores praticas de desenvolvimento de software
-- 👯 Procuro sempre colaborar com a comunidade de desenvolvimento
+-  Hoje trabalho com front-end
+-  Estudando melhores praticas de desenvolvimento de software
+-  Procuro sempre colaborar com a comunidade de desenvolvimento
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Evangelista&show_icons=true&hide=neThings&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Evangelista&hide_progress=false&hide=&theme=tokyonight&layout=compact)
