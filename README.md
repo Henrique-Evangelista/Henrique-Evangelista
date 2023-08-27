@@ -5,7 +5,7 @@ OLA! Eu sou o Henrique Evangelista
 -  Procuro sempre colaborar com a comunidade de desenvolvimento
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Evangelista&show_icons=true&hide=noThings&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Evangelista&hide_progress=false&hide=&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Evangelista&hide_progress=false&hide=&tiheme=tokyonight&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
