@@ -1,6 +1,6 @@
 OLA! Eu sou o Henrique Evangelista
 
--  Hoje trabalho com front-end
+-  Trabalho com front-end mas busco aprender FullStack
 -  Estudando melhores praticas de desenvolvimento de software
 -  Procuro sempre colaborar com a comunidade de desenvolvimento
 
