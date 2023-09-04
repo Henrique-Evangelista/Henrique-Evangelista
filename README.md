@@ -1,7 +1,7 @@
 OLA! Eu sou o Henrique Evangelista
 
--  Trabalho com front-end mas busco aprender FullStack
--  Estudando melhores praticas de desenvolvimento de software
+-  Trabalho com front-end
+-  Estudando melhores praticas de desenvolvimento de software e me aprimorando para Full-Stack
 -  Procuro sempre colaborar com a comunidade de desenvolvimento
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Evangelista&show_icons=true&hide=noThings&theme=tokyonight&)
