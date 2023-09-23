@@ -1,7 +1,7 @@
 OLA! Eu sou o Henrique Evangelista
 
--  Estudando melhores praticas de desenvolvimento de software e me aprimorando para Full-Stack
--  Procuro sempre colaborar com a comunidade de desenvolvimento
+-   Estudando melhores praticas de desenvolvimento de software e me aprimorando para Full-Stack
+-   Procuro sempre colaborar com a comunidade de desenvolvimento
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Evangelista&show_icons=true&&&theme=tokyonight&&)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Evangelista&hide_progress=false&hide=&theme=tokyonight&layout=compact&&)
